@@ -1,1 +1,25 @@
 /* Add screen styles below */
+html{
+    background: rgb(120, 116, 116);
+}
+
+body{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 110px;
+    margin-top: 5%;
+    padding: 100px;
+    color: rgb(124, 19, 124);
+    border-top: 50px solid rgb(124, 19, 124);
+}
+
+h1 {
+    font-size: 4em;
+    margin: 2%;
+    margin-top: 0%;
+}
+
+p {
+    font-size: 1.5em;
+    margin: 3%;
+    margin-top: 0%;
+}
